@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+spacy
+scispacy
+medspacy
+gensim
+scikit-learn
+umap-learn
+transformers
+torch
+ipython
